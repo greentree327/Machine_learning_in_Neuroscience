@@ -57,14 +57,14 @@ This research investigates cognitive reappraisal through neurofeedback-based tra
 - 
 ### Region of Interest (ROI)
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/63ad0b0d-9562-44a2-902e-0b58f154f765" width="500" height="400" alt="fNIRS cap configuration"/>
+  <img src="https://github.com/user-attachments/assets/63ad0b0d-9562-44a2-902e-0b58f154f765" width="350" height="150" alt="fNIRS cap configuration"/>
 </p>
 
 ## Results
 
 ### Connectivity Analysis
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/80c5dad1-41fe-46c5-81f9-26dd58ff79b9" width="800" height="600" alt="Correlation matrices"/>
+  <img src="https://github.com/user-attachments/assets/80c5dad1-41fe-46c5-81f9-26dd58ff79b9" width="600" height="400" alt="Correlation matrices"/>
 </p>
 
 ### Time Series Analysis
