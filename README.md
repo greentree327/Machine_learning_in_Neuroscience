@@ -67,16 +67,25 @@ This research investigates cognitive reappraisal through neurofeedback-based tra
   <img src="https://github.com/user-attachments/assets/80c5dad1-41fe-46c5-81f9-26dd58ff79b9" width="600" height="400" alt="Correlation matrices"/>
 </p>
 
+- Technique: Pearson correlation matrices between channel pairs
+- Finding: Stronger S4/-D2-D4-D6 cluster correlation in neurofeedback group (r > 0.7)
+
 ### Time Series Analysis
 <p align="center">
   <img src="https://github.com/user-attachments/assets/3121983d-4077-4c54-8b0e-5ae96d968aaa" width="800" height="300" alt="Grand average of oxygenated haemoglobin brain activity"/>
 </p>
+
+- Technique: Averaged HbO response across trials and subjects
+- Finding: Peak activation difference between groups during 6-12s window (5 x 10⁻⁸ mol/L)
 
 ### Machine Learning Classification
 <p align="center">
   <img src="https://github.com/user-attachments/assets/73f78d9a-ebb7-43b3-be19-4aaba3e730ab" width="400" height="400" alt="Confusion Matrix"/>
 </p>
 
+- Technique: Linear SVC with grid search CV (optimal C = 0.1954)
+- Finding: 77.78% accuracy, significantly above chance (χ² = 4.43, p = 0.0353)
+- 
 ### Training Effects
 <div align="center">
   <img src="https://github.com/user-attachments/assets/37ec65ab-350c-4d3b-b069-5b99e6fea2fe" width="600" height="400" alt="Neurofeedback group results"/>
@@ -85,6 +94,8 @@ This research investigates cognitive reappraisal through neurofeedback-based tra
   <img src="path/to/figure13b.png" width="600" height="400" alt="Sham group statistics"/>
 </div>
 
+- Technique: Repeated measures ANOVA with post-hoc pairwise t-tests
+- Finding: Sessions 2-3 improvement in neurofeedback group (p = 0.013, F = 2.0655)
 
 
 ## Key Findings
