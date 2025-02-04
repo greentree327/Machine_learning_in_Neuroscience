@@ -25,7 +25,7 @@ This research investigates cognitive reappraisal through neurofeedback-based tra
 
 #### 5. Wavelet-Based Motion Correction
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/442c8a3b-801f-4a4c-9a4e-75149bb901f7" width="600" height="300" alt="Wavelet Correction"/>
+  <img src="https://github.com/user-attachments/assets/5f9000b7-6862-4da5-bc24-9aa3d8fd7869" width="600" height="300" alt="Wavelet Correction"/>
 </p>
 
 **Before vs After:**
