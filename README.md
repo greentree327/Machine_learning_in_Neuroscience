@@ -19,7 +19,7 @@ This research investigates cognitive reappraisal through neurofeedback-based tra
 ## Methods
 
 ### fNIRS Data Preprocessing Pipeline
-![fNIRS data preprocessing pipeline diagram](https://github.com/user-attachments/assets/d21167e4-0caa-48bd-8342-d21f4903a7c3)
+<img src="https://github.com/user-attachments/assets/d21167e4-0caa-48bd-8342-d21f4903a7c3" width="800" height="400" alt="fNIRS data preprocessing pipeline diagram"/>
 
 ### Significant Signal Processing Steps & Results
 
@@ -50,7 +50,7 @@ This research investigates cognitive reappraisal through neurofeedback-based tra
 - More distinct hemodynamic response patterns
 - 
 ### Region of Interest (ROI)
-![fNIRS cap configuration with lateral PFC ROI](https://github.com/user-attachments/assets/df70dab2-e73e-4d59-92c1-ee756e082dae)
+![fNIRS cap configuration with lateral PFC ROI](https://github.com/user-attachments/assets/63ad0b0d-9562-44a2-902e-0b58f154f765)
 
 ## Results
 
