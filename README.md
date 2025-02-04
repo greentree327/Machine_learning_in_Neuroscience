@@ -54,7 +54,7 @@ This research investigates cognitive reappraisal through neurofeedback-based tra
 - Enhanced signal quality through correlation-based signal improvement
 - Stronger mirroring effect between HbO and HbR signals
 - More distinct hemodynamic response patterns
-- 
+
 ### Region of Interest (ROI)
 <p align="center">
   <img src="https://github.com/user-attachments/assets/63ad0b0d-9562-44a2-902e-0b58f154f765" width="350" height="150" alt="fNIRS cap configuration"/>
