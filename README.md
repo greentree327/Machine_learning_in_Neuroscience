@@ -47,7 +47,7 @@ This research investigates cognitive reappraisal through neurofeedback-based tra
 
 #### 8. CBSI Motion Correction
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7d803d30-0ad7-47c7-a339-613ff9fe51a7" width="600" height="300" alt="CBSI Correction"/>
+  <img src="https://github.com/user-attachments/assets/7d803d30-0ad7-47c7-a339-613ff9fe51a7" width="600" height="400" alt="CBSI Correction"/>
 </p>
 
 **Improvements:**
