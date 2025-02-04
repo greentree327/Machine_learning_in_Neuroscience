@@ -19,7 +19,7 @@ This research investigates cognitive reappraisal through neurofeedback-based tra
 ## Methods
 
 ### fNIRS Data Preprocessing Pipeline
-<img src="https://github.com/user-attachments/assets/d21167e4-0caa-48bd-8342-d21f4903a7c3" width="800" height="400" alt="fNIRS data preprocessing pipeline diagram"/>
+<img src="https://github.com/user-attachments/assets/d21167e4-0caa-48bd-8342-d21f4903a7c3" width="800" height="300" alt="fNIRS data preprocessing pipeline diagram"/>
 
 ### Significant Signal Processing Steps & Results
 
