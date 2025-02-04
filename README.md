@@ -21,16 +21,31 @@ This research investigates cognitive reappraisal through neurofeedback-based tra
 ### fNIRS Data Preprocessing Pipeline
 ![fNIRS data preprocessing pipeline diagram](https://github.com/user-attachments/assets/d21167e4-0caa-48bd-8342-d21f4903a7c3)
 
-### Signal Processing Steps
-1. Raw intensity data collection
-2. Bad data filtering & channel selection
-3. Optical density conversion
-4. Scalp coupling index (SCI) calculation
-5. Motion correction using wavelet-based method
-6. Bandpass filtering
-7. Conversion to haemoglobin concentration
-8. Motion correction using CBSI
+### Significant Signal Processing Steps & Results
 
+#### 5. Wavelet-Based Motion Correction
+![Wavelet Correction](https://github.com/user-attachments/assets/442c8a3b-801f-4a4c-9a4e-75149bb901f7)
+**Before vs After:**
+- Successfully removed sudden spikes (IQR > 1.5)
+- Smoother signal trajectory while preserving underlying neural responses
+
+#### 6. Bandpass Filtering
+![Bandpass Filter Effect](https://github.com/user-attachments/assets/069dc3c0-ee82-41b0-ba09-65db6c099717)
+**Filtering Results:**
+- High-pass filter (0.01 Hz): Removed slow drifts
+- Low-pass filter (0.4 Hz): Eliminated high-frequency noise
+- Removed physiological noise:
+  - Heart rate (~1-1.2 Hz)
+  - Respiration (~0.3-0.6 Hz)
+  - Blood pressure/Mayer waves (~0.1 Hz)
+
+#### 8. CBSI Motion Correction
+![CBSI Correction](https://github.com/user-attachments/assets/81355bcc-ccbf-4c11-a811-13add6567f04)
+**Improvements:**
+- Enhanced signal quality through correlation-based signal improvement
+- Stronger mirroring effect between HbO and HbR signals
+- More distinct hemodynamic response patterns
+- 
 ### Region of Interest (ROI)
 ![fNIRS cap configuration with lateral PFC ROI](https://github.com/user-attachments/assets/df70dab2-e73e-4d59-92c1-ee756e082dae)
 
