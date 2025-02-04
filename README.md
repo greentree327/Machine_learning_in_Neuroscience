@@ -55,19 +55,21 @@ This research investigates cognitive reappraisal through neurofeedback-based tra
 ## Results
 
 ### Connectivity Analysis
-![Correlation matrices](path/to/figure8.png)
+![Correlation matrices](https://github.com/user-attachments/assets/80c5dad1-41fe-46c5-81f9-26dd58ff79b9)
 
 ### Time Series Analysis
-![Grand average of oxygenated haemoglobin brain activity](path/to/figure9.png)
-
-### Training Effects
-![Neurofeedback group results](path/to/figure12a.png)
-![Neurofeedback group statistics](path/to/figure12b.png)
-![Sham group results](path/to/figure13a.png)
-![Sham group statistics](path/to/figure13b.png)
+![Grand average of oxygenated haemoglobin brain activity](https://github.com/user-attachments/assets/3121983d-4077-4c54-8b0e-5ae96d968aaa)
 
 ### Machine Learning Classification
-![Confusion Matrix](path/to/figure15.png)
+![Confusion Matrix](https://github.com/user-attachments/assets/73f78d9a-ebb7-43b3-be19-4aaba3e730ab)
+
+### Training Effects
+![Neurofeedback group results](https://github.com/user-attachments/assets/37ec65ab-350c-4d3b-b069-5b99e6fea2fe)
+![Neurofeedback group statistics](path/to/figure12b.png)
+![Sham group results](https://github.com/user-attachments/assets/3f0555a5-b4a2-41d5-a63f-226503a4953f)
+![Sham group statistics](path/to/figure13b.png)
+
+
 
 ## Key Findings
 - Significant increase in brain activity between neurofeedback training sessions 2 and 3
