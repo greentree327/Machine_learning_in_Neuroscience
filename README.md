@@ -33,7 +33,9 @@ This research investigates cognitive reappraisal through neurofeedback-based tra
 - Smoother signal trajectory while preserving underlying neural responses
 
 #### 6. Bandpass Filtering
-![Bandpass Filter Effect](https://github.com/user-attachments/assets/069dc3c0-ee82-41b0-ba09-65db6c099717)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/069dc3c0-ee82-41b0-ba09-65db6c099717" width="600" height="300" alt="Bandpass Filter Effect"/>
+</p>
 
 **Filtering Results:**
 - High-pass filter (0.01 Hz): Removed slow drifts
@@ -44,7 +46,9 @@ This research investigates cognitive reappraisal through neurofeedback-based tra
   - Blood pressure/Mayer waves (~0.1 Hz)
 
 #### 8. CBSI Motion Correction
-![CBSI Correction](https://github.com/user-attachments/assets/81355bcc-ccbf-4c11-a811-13add6567f04)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/81355bcc-ccbf-4c11-a811-13add6567f04" width="600" height="300" alt="CBSI Correction"/>
+</p>
 
 **Improvements:**
 - Enhanced signal quality through correlation-based signal improvement
@@ -52,24 +56,34 @@ This research investigates cognitive reappraisal through neurofeedback-based tra
 - More distinct hemodynamic response patterns
 - 
 ### Region of Interest (ROI)
-![fNIRS cap configuration with lateral PFC ROI](https://github.com/user-attachments/assets/63ad0b0d-9562-44a2-902e-0b58f154f765)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/63ad0b0d-9562-44a2-902e-0b58f154f765" width="500" height="400" alt="fNIRS cap configuration"/>
+</p>
 
 ## Results
 
 ### Connectivity Analysis
-![Correlation matrices](https://github.com/user-attachments/assets/80c5dad1-41fe-46c5-81f9-26dd58ff79b9)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/80c5dad1-41fe-46c5-81f9-26dd58ff79b9" width="800" height="600" alt="Correlation matrices"/>
+</p>
 
 ### Time Series Analysis
-![Grand average of oxygenated haemoglobin brain activity](https://github.com/user-attachments/assets/3121983d-4077-4c54-8b0e-5ae96d968aaa)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3121983d-4077-4c54-8b0e-5ae96d968aaa" width="800" height="300" alt="Grand average of oxygenated haemoglobin brain activity"/>
+</p>
 
 ### Machine Learning Classification
-![Confusion Matrix](https://github.com/user-attachments/assets/73f78d9a-ebb7-43b3-be19-4aaba3e730ab)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/73f78d9a-ebb7-43b3-be19-4aaba3e730ab" width="400" height="400" alt="Confusion Matrix"/>
+</p>
 
 ### Training Effects
-![Neurofeedback group results](https://github.com/user-attachments/assets/37ec65ab-350c-4d3b-b069-5b99e6fea2fe)
-![Neurofeedback group statistics](path/to/figure12b.png)
-![Sham group results](https://github.com/user-attachments/assets/3f0555a5-b4a2-41d5-a63f-226503a4953f)
-![Sham group statistics](path/to/figure13b.png)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/37ec65ab-350c-4d3b-b069-5b99e6fea2fe" width="600" height="400" alt="Neurofeedback group results"/>
+  <img src="path/to/figure12b.png" width="600" height="400" alt="Neurofeedback group statistics"/>
+  <img src="https://github.com/user-attachments/assets/3f0555a5-b4a2-41d5-a63f-226503a4953f" width="600" height="400" alt="Sham group results"/>
+  <img src="path/to/figure13b.png" width="600" height="400" alt="Sham group statistics"/>
+</div>
 
 
 
