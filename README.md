@@ -25,12 +25,14 @@ This research investigates cognitive reappraisal through neurofeedback-based tra
 
 #### 5. Wavelet-Based Motion Correction
 ![Wavelet Correction](https://github.com/user-attachments/assets/442c8a3b-801f-4a4c-9a4e-75149bb901f7)
+
 **Before vs After:**
 - Successfully removed sudden spikes (IQR > 1.5)
 - Smoother signal trajectory while preserving underlying neural responses
 
 #### 6. Bandpass Filtering
 ![Bandpass Filter Effect](https://github.com/user-attachments/assets/069dc3c0-ee82-41b0-ba09-65db6c099717)
+
 **Filtering Results:**
 - High-pass filter (0.01 Hz): Removed slow drifts
 - Low-pass filter (0.4 Hz): Eliminated high-frequency noise
@@ -41,6 +43,7 @@ This research investigates cognitive reappraisal through neurofeedback-based tra
 
 #### 8. CBSI Motion Correction
 ![CBSI Correction](https://github.com/user-attachments/assets/81355bcc-ccbf-4c11-a811-13add6567f04)
+
 **Improvements:**
 - Enhanced signal quality through correlation-based signal improvement
 - Stronger mirroring effect between HbO and HbR signals
