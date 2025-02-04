@@ -34,7 +34,7 @@ This research investigates cognitive reappraisal through neurofeedback-based tra
 
 #### 6. Bandpass Filtering
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/069dc3c0-ee82-41b0-ba09-65db6c099717" width="600" height="300" alt="Bandpass Filter Effect"/>
+  <img src="https://github.com/user-attachments/assets/069dc3c0-ee82-41b0-ba09-65db6c099717" width="600" height="400" alt="Bandpass Filter Effect"/>
 </p>
 
 **Filtering Results:**
