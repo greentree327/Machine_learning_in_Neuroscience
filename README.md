@@ -85,7 +85,7 @@ This research investigates cognitive reappraisal through neurofeedback-based tra
 
 - Technique: Linear SVC with grid search CV (optimal C = 0.1954)
 - Finding: 77.78% accuracy, significantly above chance (χ² = 4.43, p = 0.0353)
-- 
+
 ### Training Effects
 <div align="center">
   <img src="https://github.com/user-attachments/assets/37ec65ab-350c-4d3b-b069-5b99e6fea2fe" width="600" height="400" alt="Neurofeedback group results"/>
