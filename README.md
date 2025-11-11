@@ -87,13 +87,14 @@ This research investigates cognitive reappraisal through neurofeedback-based tra
 - Finding: 77.78% accuracy, significantly above chance (χ² = 4.43, p = 0.0353)
 
 ### Training Effects
+<!--
 <div align="center">
   <img src="https://github.com/user-attachments/assets/37ec65ab-350c-4d3b-b069-5b99e6fea2fe" width="600" height="400" alt="Neurofeedback group results"/>
   <img src="path/to/figure12b.png" width="600" height="400" alt="Neurofeedback group statistics"/>
   <img src="https://github.com/user-attachments/assets/3f0555a5-b4a2-41d5-a63f-226503a4953f" width="600" height="400" alt="Sham group results"/>
   <img src="path/to/figure13b.png" width="600" height="400" alt="Sham group statistics"/>
 </div>
-
+-->
 - Technique: Repeated measures ANOVA with post-hoc pairwise t-tests
 - Finding: Sessions 2-3 improvement in neurofeedback group (p = 0.013, F = 2.0655)
 
