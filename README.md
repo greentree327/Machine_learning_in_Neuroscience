@@ -94,16 +94,19 @@ This research investigates cognitive reappraisal through neurofeedback-based tra
   <img src="https://github.com/user-attachments/assets/3f0555a5-b4a2-41d5-a63f-226503a4953f" width="600" height="400" alt="Sham group results"/>
   <img src="path/to/figure13b.png" width="600" height="400" alt="Sham group statistics"/>
 </div>
--->
 - Technique: Repeated measures ANOVA with post-hoc pairwise t-tests
 - Finding: Sessions 2-3 improvement in neurofeedback group (p = 0.013, F = 2.0655)
-
 
 ## Key Findings
 - Significant increase in brain activity between neurofeedback training sessions 2 and 3
 - Enhanced functional connectivity during reappraisal tasks in the neurofeedback group
 - SVM classifier achieved 77.78% accuracy in distinguishing between conditions
 - Statistical significance confirmed through chi-square test (χ² = 4.43, p = 0.0353)
+-->
+
+
+
+
 
 ## Code Notebooks
 - [Time Series Analysis](https://colab.research.google.com/drive/1FihVOAB9FzkabtAvvs_wnaAwZkQ5U6hC)
