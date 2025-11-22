@@ -18,6 +18,9 @@ This research investigates the efficacy of a novel **computer-assisted Emotion R
 ### fNIRS Data Preprocessing Pipeline
 <img src="https://github.com/user-attachments/assets/d21167e4-0caa-48bd-8342-d21f4903a7c3" width="800" height="300" alt="fNIRS data preprocessing pipeline diagram"/>
 
+### Technical Implementation: The "Homer2-Python" Bridge
+
+Engineered an end-to-end raw data processing engine that bridges the gap between **legacy MATLAB standards (Homer2)** and modern Python ML stacks. I implemented a custom suite of signal filters, including **Wavelet-based Motion Correction** and **Correlation Based Signal Improvement (CBSI)**, to correct for non-stationary motion artifacts in raw optical data. This pipeline ensured rigorous data consistency across all subjects, transforming noisy raw recordings into clean, standardized features ready for high-performance decoding.
 ### Significant Signal Processing Steps & Results
 
 #### 5. Wavelet-Based Motion Correction
