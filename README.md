@@ -4,9 +4,6 @@
 - Professor Benjamin BECKER, The University of Hong Kong
 - Miss. Michelle Tsang (Post-doctoral researcher), The University of Hong Kong
 
-## Project Link
-[Read the full article on Medium](https://medium.com/@jackson3b04/using-machine-learning-to-decode-fnirs-data-f5cb3aab1291)
-
 ## Overview
 This research investigates the efficacy of a novel **computer-assisted Emotion Regulation Training (ERT)** protocol. By utilizing functional near-infrared spectroscopy (fNIRS) to monitor physiological responses during **cognitive reappraisal training**, this study seeks to enhance standard regulation strategies. The study employs various analytical approaches including correlation matrices, repeated-measures ANOVA, and machine learning methods like Support Vector Machines (SVM) to decode successful regulation states.
 
@@ -80,6 +77,9 @@ This research investigates the efficacy of a novel **computer-assisted Emotion R
 
 ### Training Effects
 <!--
+
+## Project Link
+[Read the full article on Medium](https://medium.com/@jackson3b04/using-machine-learning-to-decode-fnirs-data-f5cb3aab1291)
 
 ### Time Series Analysis
 <p align="center">
