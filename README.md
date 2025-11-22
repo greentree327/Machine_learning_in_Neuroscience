@@ -8,13 +8,13 @@
 [Read the full article on Medium](https://medium.com/@jackson3b04/using-machine-learning-to-decode-fnirs-data-f5cb3aab1291)
 
 ## Overview
-This research investigates cognitive reappraisal through neurofeedback-based training using functional near-infrared spectroscopy (fNIRS). The study employs various analytical approaches including correlation matrices, repeated-measures ANOVA, and machine learning methods like Support Vector Machines (SVM).
+This research investigates the efficacy of a novel **computer-assisted Emotion Regulation Training (ERT)** protocol. By utilizing functional near-infrared spectroscopy (fNIRS) to monitor physiological responses during **cognitive reappraisal training**, this study seeks to enhance standard regulation strategies. The study employs various analytical approaches including correlation matrices, repeated-measures ANOVA, and machine learning methods like Support Vector Machines (SVM) to decode successful regulation states.
 
 ## Key Hypotheses
-1. Brain activity in the lateral prefrontal cortex (lPFC) will increase across training runs during reappraisal trials
-2. Cognitive reappraisal enhances connectivity in the lPFC ROI more strongly for the experimental neurofeedback group
-3. SVM classifier can distinguish between regulation and view conditions
-4. SVM classifier accuracy significantly differs from random guessing
+1. Brain activity in the lateral prefrontal cortex (lPFC) will increase across training runs during reappraisal trials.
+2. Cognitive reappraisal enhances connectivity in the lPFC ROI more strongly for the **experimental ERT group** compared to the control group.
+3. SVM classifier can distinguish between regulation and view conditions based on hemodynamic data.
+4. SVM classifier accuracy significantly differs from random guessing.
 
 ## Methods
 
@@ -68,15 +68,7 @@ This research investigates cognitive reappraisal through neurofeedback-based tra
 </p>
 
 - Technique: Pearson correlation matrices between channel pairs
-- Finding: Stronger S4/-D2-D4-D6 cluster correlation in neurofeedback group (r > 0.7)
-
-### Time Series Analysis
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/3121983d-4077-4c54-8b0e-5ae96d968aaa" width="800" height="300" alt="Grand average of oxygenated haemoglobin brain activity"/>
-</p>
-
-- Technique: Averaged HbO response across trials and subjects
-- Finding: Peak activation difference between groups during 6-12s window (5 x 10⁻⁸ mol/L)
+- Finding: Stronger S4/-D2-D4-D6 cluster correlation in the **experimental ERT group** (r > 0.7)
 
 ### Machine Learning Classification
 <p align="center">
@@ -88,25 +80,30 @@ This research investigates cognitive reappraisal through neurofeedback-based tra
 
 ### Training Effects
 <!--
+
+### Time Series Analysis
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3121983d-4077-4c54-8b0e-5ae96d968aaa" width="800" height="300" alt="Grand average of oxygenated haemoglobin brain activity"/>
+</p>
+
+- Technique: Averaged HbO response across trials and subjects
+- Finding: Peak activation difference between groups during 6-12s window (5 x 10⁻⁸ mol/L)
+
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/37ec65ab-350c-4d3b-b069-5b99e6fea2fe" width="600" height="400" alt="Neurofeedback group results"/>
-  <img src="path/to/figure12b.png" width="600" height="400" alt="Neurofeedback group statistics"/>
-  <img src="https://github.com/user-attachments/assets/3f0555a5-b4a2-41d5-a63f-226503a4953f" width="600" height="400" alt="Sham group results"/>
-  <img src="path/to/figure13b.png" width="600" height="400" alt="Sham group statistics"/>
+  <img src="https://github.com/user-attachments/assets/37ec65ab-350c-4d3b-b069-5b99e6fea2fe" width="600" height="400" alt="Experimental ERT group results"/>
+  <img src="path/to/figure12b.png" width="600" height="400" alt="Experimental ERT group statistics"/>
+  <img src="https://github.com/user-attachments/assets/3f0555a5-b4a2-41d5-a63f-226503a4953f" width="600" height="400" alt="Control group results"/>
+  <img src="path/to/figure13b.png" width="600" height="400" alt="Control group statistics"/>
 </div>
 - Technique: Repeated measures ANOVA with post-hoc pairwise t-tests
-- Finding: Sessions 2-3 improvement in neurofeedback group (p = 0.013, F = 2.0655)
+- Finding: Sessions 2-3 improvement in the **Experimental ERT group** (p = 0.013, F = 2.0655)
 
 ## Key Findings
-- Significant increase in brain activity between neurofeedback training sessions 2 and 3
-- Enhanced functional connectivity during reappraisal tasks in the neurofeedback group
+- Significant increase in brain activity between **guided training sessions** 2 and 3
+- Enhanced functional connectivity during reappraisal tasks in the **experimental training group**
 - SVM classifier achieved 77.78% accuracy in distinguishing between conditions
 - Statistical significance confirmed through chi-square test (χ² = 4.43, p = 0.0353)
 -->
-
-
-
-
 
 ## Code Notebooks
 - [Time Series Analysis](https://colab.research.google.com/drive/1FihVOAB9FzkabtAvvs_wnaAwZkQ5U6hC)
